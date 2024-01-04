@@ -49,5 +49,5 @@ Users should be able to:
 
 - Website - [ern4o](https://www.ern4o.com)
 - Frontend Mentor - [@salmon982](https://www.frontendmentor.io/profile/salmon982)
-- Twitter - [@ern4o](https://www.behance.net/ern4o)
+- Behance - [@ern4o](https://www.behance.net/ern4o)
 
