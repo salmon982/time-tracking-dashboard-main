@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Responsive Grid Dashboard](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Responsive Grid Dashboard](https://www.frontendmentor.io/solutions/responsive-grid-dashboard-VL05rBH1HY)
+- Live Site URL: [Live Site](https://salmon982-grid-dashboard.netlify.app/)
 
 ## My process
 
